@@ -1,0 +1,24 @@
+{
+  "development": {
+    "username": "adit",
+    "password": "knitto15",
+    "database": "coba2",
+    "host": "192.168.20.6",
+    "port": "3311",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": null,
+    "database": "database_production",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
